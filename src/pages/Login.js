@@ -38,7 +38,12 @@ const Login = () => {
             <p className="text-center">
               Please login to continue. Use your credentials or sign up if you don't have an account.
             </p>
+            <br/>
+            <p className="text-center">
+              Without Login We can Not Access The Dashboard
+            </p>
           </Col>
+
 
           {/* Right Section - Login Form */}
           <Col md={6} className="bg-white p-4 rounded">

@@ -121,7 +121,7 @@ const Dashboard = () => {
                     <h6>Instruction</h6>
                     <ul>
                       <li>Step 1: Login to access the Dashboard.</li>
-                      <li>Step 2: Click on "Change Password" to update your credentials.</li>
+                      <li>Step 2: Without Login can`t access Dashboard</li>
                     </ul>
                   </Card.Body>
                 </Card>
